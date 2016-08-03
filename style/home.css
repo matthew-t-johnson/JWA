@@ -1,0 +1,53 @@
+﻿body {
+    width: 100%;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #333;
+}
+
+.navbar-wrapper .navbar {
+    border-radius: 25px;
+}
+
+.navbar-inverse {
+    background-color: #eee;
+    border: none;
+    color: #333;
+}
+
+
+.navbar-inverse .navbar-brand {
+    color: #333;
+}
+
+.navbar-inverse .navbar-brand:hover {
+    color: #eee;
+    background-color: #666;
+    border-radius: 25px 0px 0px 25px;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #eee;
+    background-color: #666;
+    border-radius: 25px 0px 0px 25px;
+}
+
+.navbar-inverse .navbar-nav li a {
+    color: #333;
+}
+
+.navbar-inverse .navbar-nav li.active a {
+    color: #eee;
+    background-color: #333;
+}
+
+.navbar-inverse .navbar-nav li.active a:hover {
+    color: #eee;
+    background-color: #666;
+}
+
+.navbar-inverse .navbar-nav li a:hover {
+    color: #eee;
+    background-color: #666;
+}

@@ -2,7 +2,8 @@
 
 <nav class="navbar navbar-default navbar-fixed-top col-xl-12" role="navigation" id="navbar-wrapper">
     <div class="navbar-header">
-        <a class="navbar-brand" href="#">Johnson Wyman Aviation</a>
+        <a class="navbar-brand hidden-sm hidden-xs" href="#">Johnson Wyman Aviation</a>
+        <a class="navbar-brand visible-sm visible-xs" href="#">JWA</a>
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
             <span class="sr-only">Toggle Navigation</span>
             <span class="icon-bar"></span>

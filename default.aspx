@@ -33,14 +33,9 @@
             </div>
         </div>
     </div>
-    <div class="container three-horz">
-        <div class="col-md-4 col-xs-6" style="background-color: red;"></div>
-        <div class="col-md-4 col-xs-6" style="background-color: blue;"></div>
-        <div class="col-md-4 col-xs-12" style="background-color: green;"></div>
-    </div>
-    <div class="panels">
+    <div class="panels panels-big hidden-sm hidden-xs">
         <div class="container">
-            <div class="col-lg-7 col-md-12 panel-photos">
+            <div class="col-lg-7 col-md-12 panel-photos" style="padding: 0 5px 0 0;">
                 <img src="/images/interiors/gallery-large-06 (1).jpg" />
             </div>
             <div class="col-lg-5 col-md-12 panel-text">
@@ -49,7 +44,7 @@
                         <h1>First-Class Friendly</h1>
                         <p>Johnson Wyman Aviation prides itself on building planes that are safe, reliable, and efficient, but JWA also strives to make the most luxorious planes.</p>
                     </div>
-                    <img src="images/interiors/gallery-large-05.jpg" />
+                    <img src="images/interiors/gallery-large-12.jpg" />
                 </div>
             </div>
         </div>
@@ -60,15 +55,15 @@
                         <h1>Booze Cruise in the Sky</h1>
                         <p>Indulge yourself while being pampered at 30,000 feet. You can black out at altitude and not feel your hangover until you're back at sea level; very important for the business travelers.</p>
                     </div>
-                    <img src="images/interiors/gallery-large-02.jpg" />
+                    <img src="images/interiors/gallery-large-05.jpg" />
                 </div>
             </div>
-            <div class="col-lg-7 col-md-12 panel-photos" style="background-color: #eee;">
+            <div class="col-lg-7 col-md-12 panel-photos" style="padding: 0 0 0 5px;">
                 <img src="images/interiors/gallery-large-15.jpg" />
             </div>
         </div>
         <div class="container">
-            <div class="col-lg-7 col-md-12 panel-photos" style="background-color: #eee;">
+            <div class="col-lg-7 col-md-12 panel-photos" style="padding: 0 5px 0 0;">
                 <img src="/images/interiors/gallery-interior-large-2.jpg" />
             </div>
             <div class="col-lg-5 col-md-12 panel-text" style="background-color: #333;">
@@ -80,6 +75,107 @@
             </div>
         </div>
     </div>
+    <div class="panels hidden-lg hidden-md">
+        <div class="container">
+            <div class="col-lg-7 col-md-12 panel-photos" style="padding: 0 0 0 0;">
+                <img src="/images/interiors/gallery-large-06 (1).jpg" />
+            </div>
+            <div class="col-lg-5 col-md-12 panel-text">
+                <div>
+                    <div class="panel-text-text" style="text-align: right;">
+                        <h1>First-Class Friendly</h1>
+                        <p>Johnson Wyman Aviation prides itself on building planes that are safe, reliable, and efficient, but JWA also strives to make the most luxorious planes.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="col-lg-7 col-md-12 panel-photos" style="padding: 0 0 0 0;">
+                <img src="images/interiors/gallery-large-15.jpg" />
+            </div>
+            <div class="col-lg-5 col-md-12 panel-text" style="background-color: #333;">
+                <div>
+                    <div class="panel-text-text">
+                        <h1>Booze Cruise in the Sky</h1>
+                        <p>Indulge yourself while being pampered at 30,000 feet. You can black out at altitude and not feel your hangover until you're back at sea level; very important for the business travelers.</p>
+                    </div>
+                    <img src="images/interiors/gallery-large-02.jpg" />
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="col-lg-7 col-md-12 panel-photos" style="padding: 0 0 0 0;">
+                <img src="/images/interiors/gallery-interior-large-2.jpg" />
+            </div>
+            <div class="col-lg-5 col-md-12 panel-text" style="background-color: #333;">
+                <div class="panel-text-text" style="text-align: right;">
+                    <h1>Big Windows</h1>
+                    <p>Our #1 rated biggest windows on the market allow you to see outside of the aluminum tube you're seated in and view the wonderous expanses of the world around us.</p>
+                </div>
+                <img src="images/interiors/gallery-large-07.jpg" />
+            </div>
+        </div>
+    </div>
+    <div class="container three-horz">
+        <h1 style="font-size: 20pt; text-align: center;">Loyal Partners</h1>
+        <div class="col-md-3 col-sm-4 col-xs-6">
+            <div>
+                <img class="circle-img" src="images/partners/aal.png" />
+            </div>
+            <h2 class="hidden-xs">American Airlines</h2>
+            <h2 class="visible-xs">AA</h2>
+        </div>
+        <div class="col-md-3 col-sm-4 hidden-xs">
+            <div>
+                <img class="circle-img" src="images/partners/qan.png" />
+            </div>
+            <h2 class="hidden-xs">Qantas Airways</h2>
+            <h2 class="visible-xs">QAN</h2>
+        </div>
+        <div class="col-md-3 col-sm-4 col-xs-6">
+            <div>
+                <img class="circle-img" src="images/partners/ana.png" />
+            </div>
+            <h2 class="hidden-xs">Nippon Airways</h2>
+            <h2 class="visible-xs">ANA</h2>
+        </div>
+        <div class="col-md-3 col-sm-4 col-xs-6">
+            <div>
+                <img class="circle-img" src="images/partners/bab.png" />
+            </div>
+            <h2 class="hidden-xs">British Airways</h2>
+            <h2 class="visible-xs">BA</h2>
+        </div>
+        <div class="col-md-3 col-sm-4 hidden-xs">
+            <div>
+                <img class="circle-img" src="images/partners/afa.png" />
+            </div>
+            <h2 class="hidden-xs">Air France</h2>
+            <h2 class="visible-xs">AF</h2>
+        </div>
+        <div class="col-md-3 hidden-sm hidden-xs">
+            <div>
+                <img class="circle-img" src="images/partners/dal.png" />
+            </div>
+            <h2 class="hidden-xs">Delta Air Lines</h2>
+            <h2 class="visible-xs">DL</h2>
+        </div>
+        <div class="col-md-3 col-sm-4 col-xs-6">
+            <div>
+                <img class="circle-img" src="images/partners/vaa.png" />
+            </div>
+            <h2 class="hidden-xs">Virgin Atlantic</h2>
+            <h2 class="visible-xs">VS</h2>
+        </div>
+        <div class="col-md-3 hidden-sm hidden-xs">
+            <div>
+                <img class="circle-img" src="images/partners/klm.png" />
+            </div>
+            <h2 class="hidden-xs">Royal Dutch Airlines</h2>
+            <h2 class="visible-xs">KLM</h2>
+        </div>
+    </div>
+
     <div class="container bottom-two">
         <div class="col-lg-6" style="background-color: yellow; height: 200px">
         </div>

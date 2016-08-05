@@ -41,25 +41,48 @@
 
 .three-horz {
     padding: 0;
+    margin: 10px 0;
+}
+
+.three-horz h2 {
+    font-size: 14pt;
+    margin: 5px;
 }
 
     .three-horz div {
-        height: 200px;
+        height: auto;
+        text-align: center;
+        margin: 5px 0;
+    }
+
+    .three-horz .circle-img {
+        border-radius: 50%;
+        height: 100px;
+        width: 100px;
     }
 
 #top-center img {
     max-width: 100%;
 }
 
+.panels {
+    margin: 30px 0;
+}
+
 .panels .container {
     height: auto;
     background-color: #333;
+    padding: 0;
 }
 
-    .panels .container .panel-photos {
+    .panels .panels-big .container .panel-photos {
         background-color: #eee;
-        padding: 0 5px;
+        padding: 0;
         vertical-align: middle;
+    }
+
+    .panel-photos {
+        background-color: #eee;
     }
 
 .container .panel-photos img {
@@ -74,7 +97,7 @@
 }
 
 .panel-text-text {
-    padding: 0 5px;
+    padding: 0 10px;
 }
 
 .container .panel-text img {

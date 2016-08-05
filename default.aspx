@@ -51,7 +51,9 @@
             </div>
         </div>
         <div class="container">
-            <div class="col-lg-5" style="background-color: #333;">
+            <div class="col-lg-5 panel-text" style="background-color: #333;">
+                <h1>Booze Cruise in the Sky</h1>
+                <p>Indulge yourself while being pampered at 30,000 feet. You can black out at altitude and not feel your hangover until you're back at sea level; very important for the business travelers.</p>
             </div>
             <div class="col-lg-7 panel-photos" style="background-color: #eee;">
                 <img src="/images/interiors/gallery-large-13.jpg" />
@@ -61,7 +63,10 @@
             <div class="col-lg-7 panel-photos" style="background-color: #eee;">
                 <img src="/images/interiors/gallery-interior-large-2.jpg" />
             </div>
-            <div class="col-lg-5" style="background-color: #333;"></div>
+            <div class="col-lg-5 panel-text" style="background-color: #333;">
+                <h1>Big Windows</h1>
+                <p>Our #1 rated biggest windows on the market allow you to see outside of the aluminum tube you're seated in and view the wonderous expanses of the world around us.</p>
+            </div>
         </div>
     </div>
     <div class="container">

@@ -49,7 +49,7 @@
             </div>
         </div>
         <div class="container">
-            <div class="col-lg-5 col-md-12 panel-text" style="background-color: #333;">
+            <div class="col-lg-5 col-md-12 panel-text">
                 <div>
                     <div class="panel-text-text">
                         <h1>Booze Cruise in the Sky</h1>
@@ -66,7 +66,7 @@
             <div class="col-lg-7 col-md-12 panel-photos" style="padding: 0 5px 0 0;">
                 <img src="/images/interiors/gallery-interior-large-2.jpg" />
             </div>
-            <div class="col-lg-5 col-md-12 panel-text" style="background-color: #333;">
+            <div class="col-lg-5 col-md-12 panel-text">
                 <div class="panel-text-text" style="text-align: right;">
                     <h1>Big Windows</h1>
                     <p>Our #1 rated biggest windows on the market allow you to see outside of the aluminum tube you're seated in and view the wonderous expanses of the world around us.</p>
@@ -93,13 +93,12 @@
             <div class="col-lg-7 col-md-12 panel-photos" style="padding: 0 0 0 0;">
                 <img src="images/interiors/gallery-large-15.jpg" />
             </div>
-            <div class="col-lg-5 col-md-12 panel-text" style="background-color: #333;">
+            <div class="col-lg-5 col-md-12 panel-text">
                 <div>
                     <div class="panel-text-text">
                         <h1>Booze Cruise in the Sky</h1>
                         <p>Indulge yourself while being pampered at 30,000 feet. You can black out at altitude and not feel your hangover until you're back at sea level; very important for the business travelers.</p>
                     </div>
-                    <img src="images/interiors/gallery-large-02.jpg" />
                 </div>
             </div>
         </div>
@@ -107,12 +106,11 @@
             <div class="col-lg-7 col-md-12 panel-photos" style="padding: 0 0 0 0;">
                 <img src="/images/interiors/gallery-interior-large-2.jpg" />
             </div>
-            <div class="col-lg-5 col-md-12 panel-text" style="background-color: #333;">
+            <div class="col-lg-5 col-md-12 panel-text">
                 <div class="panel-text-text" style="text-align: right;">
                     <h1>Big Windows</h1>
                     <p>Our #1 rated biggest windows on the market allow you to see outside of the aluminum tube you're seated in and view the wonderous expanses of the world around us.</p>
                 </div>
-                <img src="images/interiors/gallery-large-07.jpg" />
             </div>
         </div>
     </div>
@@ -177,11 +175,51 @@
     </div>
 
     <div class="container bottom-two">
-        <div class="col-lg-6" style="background-color: yellow; height: 200px">
+        <div class="container resource-header">
+            <div class="resource-logoL col-sm-1">
+                <img src="/images/logos/JWAlogo2.svg" />
+            </div>
+            <div class="resource-title col-sm-10">
+                <h1 style="font-size: 20pt; text-align: center;">JWA Resources</h1>
+            </div>
+            <div class="resource-logoR col-sm-1">
+                <img src="/images/logos/JWAlogo2.svg" />
+            </div>
         </div>
-        <div class="col-lg-6" style="background-color: red; height: 200px"></div>
+        <div class="col-lg-4 col-xs-12 imgtext">
+            <div style="width: auto;">
+                <img class="circle-img" src="images/rand/whistle_a_happy_tune_400x225.jpg" />
+                <h2>Johnson Wyman Aircraft</h2>
+                <div>
+                    <p>Check out our entire fleet of cutting edge aircraft as well as our future projects.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4 col-xs-12 imgtext">
+            <div style="width: auto;">
+                <img class="circle-img" src="images/rand/partners_in_pride_400x225.jpg" />
+                <h2>Become a Pilot</h2>
+                <div>
+                    <p>It's not the 60s anymore but pilots are still pretty cool. Learn how to become a pilot.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4 col-xs-12 imgtext">
+            <div style="width: auto;">
+                <img class="circle-img" src="images/rand/easy_rider_400x225.jpg" />
+                <h2>Old People</h2>
+                <div>
+                    <p>Old people are the backbone of our society. Yet they're often overlooking. Learn why.</p>
+                </div>
+            </div>
+        </div>
     </div>
-
+    <footer style="border-top: 1px solid #333;">
+        <div class="container">
+            <div class="col-md-3 col-sm-4 col-xs-12" style="font-size: 8pt;">Copyright &copy; 2008 - 2016 Johnson Wyman Aviation. All Rights Reserved</div>
+            <div class="col-md-9 col-sm-8 col-xs-12" style="text-align: right;"><a href="/pages/siteterms.aspx">Site Terms</a> | <a href="/pages/privacypolicy.aspx">Privacy Policy</a> | <a href="/pages/AdChoices.aspx">Ad Choices</a></div>
+        </div>
+    </footer>
 
     <!--Script References-->
     <script src="/Scripts/jquery-3.1.0.min.js"></script>

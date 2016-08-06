@@ -15,7 +15,6 @@
     <title>JWA</title>
     <!-- Bootstrap -->
     <link href="/Content/bootstrap.min.css" rel="stylesheet">
-    <link href="/style/carousel.css" rel="stylesheet">
     <link href="/style/home.css" rel="stylesheet" />
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -26,6 +25,41 @@
 </head>
 <body>
     <uc1:navbar runat="server" ID="navbar" />
+
+    <div id="myCarousel" class="carousel slide" style="height: auto; padding: 0; margin: 60px 0 40px; background-color: #333; color: #eee; max-height: 400px;">
+        <!-- Carousel indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+            <li data-target="#myCarousel" data-slide-to="3"></li>
+        </ol>
+
+        <!-- Carousel items -->
+        <div class="carousel-inner" style="height: auto;">
+            <div class="item active" style="max-height: 400px;">
+                <img src="../images/rand/diversity_hero.jpg" alt="First slide"/>
+            </div>
+            <div class="item" style="max-height: 400px;">
+                <img src="../images/rand/careers_home_events_hero_med_1280x436.jpg" alt="Second slide"/>
+            </div>
+            <div class="item" style="max-height: 400px;">
+                <img src="../images/rand/overview_hero_med_1280x436.jpg" />
+            </div>
+            <div class="item" style="max-height: 400px;">
+                <img src="../images/rand/careers_benefits_hero_med_1280x436.jpg" />
+            </div>
+
+        </div>
+        <!-- Carousel nav -->
+        <a class="carousel-control left" style="top: 0; bottom: 0; font-size: 20pt; padding: 0;" href="#myCarousel" data-slide="prev">
+            <div style="top: 45%; bottom: 45%;">&lsaquo;</div>
+        </a>
+        <a class="carousel-control right" style="top: 0; bottom: 0; font-size: 20pt; padding: 0;" href="#myCarousel" data-slide="next">
+            <div style="top: 45%; bottom: 45%;">&rsaquo;</div>
+        </a>
+    </div>
+
     <div class="container" id="top-center">
         <div class="col-lg-12" style="background-color: yellow; height: auto;">
             <!--<div class="hidden-lg">
@@ -66,11 +100,11 @@
         </div>
         <div class="col-lg-6" style="background-color: red; height: 200px"></div>
     </div>
-<div class="container">
-    <div class="col-md-4 col-xs-6" style="background-color: red; height: 200px;"></div>
-    <div class="col-md-4 col-xs-6" style="background-color: blue; height: 200px;"> </div>
-    <div class="col-md-4 col-xs-12" style="background-color: green; height: 200px;"></div>
-</div>
+    <div class="container">
+        <div class="col-md-4 col-xs-6" style="background-color: red; height: 200px;"></div>
+        <div class="col-md-4 col-xs-6" style="background-color: blue; height: 200px;"></div>
+        <div class="col-md-4 col-xs-12" style="background-color: green; height: 200px;"></div>
+    </div>
 
     <uc1:footer runat="server" ID="footer" />
     <!--Script References-->

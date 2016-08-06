@@ -26,7 +26,7 @@
 <body>
     <uc1:navbar runat="server" ID="navbar" />
 
-    <div id="myCarousel" class="carousel slide" style="height: auto; padding: 0; margin: 20px 0 40px;">
+    <div id="myCarousel" class="carousel slide" style="height: auto; padding: 0; margin: 20px 0 40px; background-color: #333; color: #eee;">
         <!-- Carousel indicators -->
         <ol class="carousel-indicators">
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>

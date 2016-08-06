@@ -58,17 +58,6 @@
             <div style="top: 45%; bottom: 45%;">&rsaquo;</div>
         </a>
     </div>
-
-
-    <div class="container" id="top-center">
-        <div class="col-lg-12">
-            <!--<div class="hidden-lg">
-                <img style="max-width: 100%;" src="../images/interiors/gallery-interior-large-2.jpg"/></div>-->
-            <div>
-                <img src="/images/commercial/marquee-737max.jpg" />
-            </div>
-        </div>
-    </div>
     <div class="panels panels-big hidden-sm hidden-xs">
         <div class="container">
             <div class="col-lg-7 col-md-12 panel-photos" style="padding: 0 5px 0 0;">

@@ -1,6 +1,8 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="default.aspx.cs" Inherits="pages_default" %>
 
 <%@ Register Src="~/controls/navbar.ascx" TagPrefix="uc1" TagName="navbar" %>
+<%@ Register Src="~/controls/footer.ascx" TagPrefix="uc1" TagName="footer" %>
+
 
 
 <!DOCTYPE html>
@@ -13,7 +15,6 @@
     <title>JWA</title>
     <!-- Bootstrap -->
     <link href="/Content/bootstrap.min.css" rel="stylesheet">
-    <link href="/style/carousel.css" rel="stylesheet">
     <link href="/style/home.css" rel="stylesheet" />
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -24,6 +25,41 @@
 </head>
 <body>
     <uc1:navbar runat="server" ID="navbar" />
+
+    <div id="myCarousel" class="carousel slide" style="height: auto; padding: 0; margin: 20px 0 40px;">
+        <!-- Carousel indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Carousel items -->
+        <div class="carousel-inner" style="height: auto;">
+            <div class="item active">
+                <img src="images/commercial/marquee-747.jpg" alt="First slide" style="height: auto;">
+                <div class="car-caption" style="padding: 0 5%;">
+                    <h1>Whales</h1>
+                    <p>Everybody loves gooch touching. Why don't you touch your own all the time? Hit the ground floor!</p>
+                </div>
+            </div>
+            <div class="item">
+                <img src="images/commercial/marquee-787.jpg" alt="Second slide" style="height: auto;">
+            </div>
+            <div class="item">
+                <img src="images/commercial/marquee-767.jpg" alt="Third slide" style="height: auto;">
+            </div>
+        </div>
+        <!-- Carousel nav -->
+        <a class="carousel-control left" style="top: 0; bottom: 0; font-size: 20pt; padding: 25% 0;" href="#myCarousel" data-slide="prev">
+            <div style="top: 45%; bottom: 45%;">&lsaquo;</div>
+        </a>
+        <a class="carousel-control right" style="top: 0; bottom: 0; font-size: 20pt; padding: 25% 0;" href="#myCarousel" data-slide="next">
+            <div style="top: 45%; bottom: 45%;">&rsaquo;</div>
+        </a>
+    </div>
+
+
     <div class="container" id="top-center">
         <div class="col-lg-12">
             <!--<div class="hidden-lg">
@@ -214,13 +250,7 @@
             </div>
         </div>
     </div>
-    <footer style="border-top: 1px solid #333;">
-        <div class="container">
-            <div class="col-md-3 col-sm-4 col-xs-12" style="font-size: 8pt;">Copyright &copy; 2008 - 2016 Johnson Wyman Aviation. All Rights Reserved</div>
-            <div class="col-md-9 col-sm-8 col-xs-12" style="text-align: right;"><a href="/pages/siteterms.aspx">Site Terms</a> | <a href="/pages/privacypolicy.aspx">Privacy Policy</a> | <a href="/pages/AdChoices.aspx">Ad Choices</a></div>
-        </div>
-    </footer>
-
+    <uc1:footer runat="server" ID="footer" />
     <!--Script References-->
     <script src="/Scripts/jquery-3.1.0.min.js"></script>
     <script src="/Scripts/bootstrap.min.js"></script>

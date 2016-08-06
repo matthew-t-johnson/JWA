@@ -1,6 +1,8 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="careers.aspx.cs" Inherits="pages_careers" %>
 
 <%@ Register Src="~/controls/navbar.ascx" TagPrefix="uc1" TagName="navbar" %>
+<%@ Register Src="~/controls/footer.ascx" TagPrefix="uc1" TagName="footer" %>
+
 
 
 <!DOCTYPE html>
@@ -70,7 +72,7 @@
     <div class="col-md-4 col-xs-12" style="background-color: green; height: 200px;"></div>
 </div>
 
-
+    <uc1:footer runat="server" ID="footer" />
     <!--Script References-->
     <script src="/Scripts/jquery-3.1.0.min.js"></script>
     <script src="/Scripts/bootstrap.min.js"></script>

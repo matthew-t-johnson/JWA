@@ -38,16 +38,16 @@
         <!-- Carousel items -->
         <div class="carousel-inner" style="height: auto;">
             <div class="item active" style="max-height: 400px;">
-                <img src="../images/rand/diversity_hero.jpg" alt="First slide"/>
+                <img src="../images/careers/diversity_hero.jpg" alt="First slide" />
             </div>
             <div class="item" style="max-height: 400px;">
-                <img src="../images/rand/careers_home_events_hero_med_1280x436.jpg" alt="Second slide"/>
+                <img src="../images/careers/the-harvard-initiative.jpg" alt="Second slide" />
             </div>
             <div class="item" style="max-height: 400px;">
-                <img src="../images/rand/overview_hero_med_1280x436.jpg" />
+                <img src="../images/careers/overview_hero_med_1280x436.jpg" />
             </div>
             <div class="item" style="max-height: 400px;">
-                <img src="../images/rand/careers_benefits_hero_med_1280x436.jpg" />
+                <img src="../images/careers/careers_benefits_hero_med_1280x436.jpg" />
             </div>
 
         </div>
@@ -60,51 +60,154 @@
         </a>
     </div>
 
-    <div class="container" id="top-center">
-        <div class="col-lg-12" style="background-color: yellow; height: auto;">
-            <!--<div class="hidden-lg">
-                <img style="max-width: 100%;" src="../images/interiors/gallery-interior-large-2.jpg"/></div>-->
-            <div>
-                <img style="max-width: 100%" src="/images/commercial/marquee-737max.jpg" />
-            </div>
+    <div class="row">
+        <div class="col-xs-6 col-sm-6 col-md-3 thumbnail-container" style="text-align: center;">
+            <a href="#" class="thumbnail">
+                <img src="../images/careers/overview_engineering.jpg" />
+                <h4>JWA ECOURAGES</h4>
+                <p>Employees to expose themselves when situations are tense.</p>
+            </a>
+        </div>
+        <div class="col-xs-6 col-sm-6 col-md-3 thumbnail-container hidden-xs">
+            <a href="#" class="thumbnail">
+                <img src="../images/careers/business_finance.jpg" />
+                <h4>PUBLIC RELATIONS</h4>
+                <p>Consists of favoriting and retweeting posts that are posititve.</p>
+            </a>
+        </div>
+        <div class="col-xs-6 col-sm-6 col-md-3 thumbnail-container hidden-xs">
+            <a href="#" class="thumbnail">
+                <img src="../images/careers/it_itip_jeff_lierman.jpg" />
+                <h4>SUPERVISORS</h4>
+                <p>Adults monitor our labor force ensuring we maintain schedule.</p>
+            </a>
+        </div>
+
+        <div class="col-xs-6 col-sm-6 col-md-3 thumbnail-container">
+            <a href="#" class="thumbnail">
+                <img src="../images/careers/rotational_programs.jpg" />
+                <h4>WAIT A SECOND</h4>
+                <p>When you say gooch touching, just what exactly that are implying?</p>
+            </a>
         </div>
     </div>
-    <div class="panels">
-        <div class="container">
-            <div class="col-lg-7 panel-photos" style="background-color: #eee;">
-                <img src="/images/interiors/gallery-large-06 (1).jpg" />
+
+
+    <div class="panels panels-big hidden-sm hidden-xs">
+        <div class="container" style="border-radius: 10px;">
+            <div class="col-lg-7 col-md-12 panel-photos" style="padding: 0 0 0 0; border-radius: 10px 0 0 10px;">
+                <img style="border-radius: 10px 0 0 10px;" src="../images/careers/empower_hero_1280x720.jpg" />
             </div>
-            <div class="col-lg-5 panel-text" style="background-color: #333;">
+            <div class="col-lg-5 col-md-12 panel-text" style="border-radius: 0 10px 10px 0;">
                 <div>
-                    <h1>First-Class Friendly</h1>
-                    <p>Johnson Wyman Aviation prides itself on building planes that are safe, reliable, and efficient, but JWA also strives to make the most luxorious planes. At least for those in first...</p>
+                    <div class="panel-text-text" style="text-align: right; border-radius: 0 10px 10px 0;">
+                        <h1>First-Class Friendly</h1>
+                        <p>Johnson Wyman Aviation prides itself on building planes that are safe, reliable, and efficient, but JWA also strives to make the most luxorious planes.</p>
+                    </div>
                 </div>
             </div>
         </div>
-        <div class="container">
-            <div class="col-lg-5" style="background-color: #333;">
+        <div class="container" style="border-radius: 10px;">
+            <div class="col-lg-5 col-md-12 panel-text" style="border-radius: 10px 0 0 10px;">
+                <div>
+                    <div class="panel-text-text">
+                        <h1>Booze Cruise in the Sky</h1>
+                        <p>Indulge yourself while being pampered at 30,000 feet. You can black out at altitude and not feel your hangover until you're back at sea level; very important for the business travelers.</p>
+                    </div>
+                </div>
             </div>
-            <div class="col-lg-7 panel-photos" style="background-color: #eee;">
-                <img src="/images/interiors/gallery-large-13.jpg" />
+            <div class="col-lg-7 col-md-12 panel-photos" style="padding: 0 0 0 0; border-radius: 0 10px 10px 0;">
+                <img style="border-radius: 0 10px 10px 0;" src="../images/careers/careers.jpg" />
             </div>
         </div>
-        <div class="container">
-            <div class="col-lg-7 panel-photos" style="background-color: #eee;">
-                <img src="/images/interiors/gallery-interior-large-2.jpg" />
+    </div>
+    
+    <div class="panels panels-small hidden-lg hidden-md">
+        <div class="container" style="border-radius: 10px;">
+            <div class="col-lg-7 col-md-12 panel-photos" style="padding: 0 0 0 0; border-radius: 10px 10px 0 0;">
+                <img style=" border-radius: 10px 10px 0 0;" src="../images/careers/empower_hero_1280x720.jpg" />
             </div>
-            <div class="col-lg-5" style="background-color: #333;"></div>
+            <div class="col-lg-5 col-md-12 panel-text" style="border-radius: 0 0 10px 10px;">
+                <div>
+                    <div class="panel-text-text" style="text-align: right; border-radius: 0 0 10px 10px;">
+                        <h4>First-Class Friendly</h4>
+                        <p>Johnson Wyman Aviation prides itself on building planes that are safe, reliable, and efficient, but JWA also strives to make the most luxorious planes.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container" style="border-radius: 10px;">
+            <div class="col-lg-7 col-md-12 panel-photos" style="padding: 0 0 0 0; border-radius: 10px 10px 0 0;">
+                <img style=" border-radius: 10px 10px 0 0;" src="../images/careers/careers.jpg" />
+            </div>
+            <div class="col-lg-5 col-md-12 panel-text" style="border-radius: 0 0 10px 10px;">
+                <div>
+                    <div class="panel-text-text" style="text-align: right; border-radius: 0 0 10px 10px;">
+                        <h4>First-Class Friendly</h4>
+                        <p>Johnson Wyman Aviation prides itself on building planes that are safe, reliable, and efficient, but JWA also strives to make the most luxorious planes.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="barcharts">
+        <div class="barchart-title">
+            <h3>Sexual Harrassment Reporting</h3>
+            <p>In the aviation industry you need a staff that is capable, efficient, and detail-oriented. That is why we employ the most qualified children to assemble and manufacture our aircraft. One of the added bonuses to child labor is that they have no interest in the opposite gender, meaning the percentage of JWA employees that report sexual harrassment is near non-existent. As you can see, that is not the case with some of our competitors.</p>
+        </div>
+        <div class="progress">
+            <div class="progress-bar progress-bar-success" role="progressbar"
+                aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 1%;">
+
+                <span class="sr-only">1% Reported (Success)</span>
+            </div>
+        </div>
+        <div class="progress">
+            <div class="progress-bar progress-bar-info" role="progressbar"
+                aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 11%;">
+
+                <span class="sr-only">20% Reported (info)</span>
+            </div>
+        </div>
+        <div class="progress">
+            <div class="progress-bar progress-bar-warning" role="progressbar"
+                aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 34%;">
+
+                <span class="sr-only">34% Reported (warming)</span>
+            </div>
+        </div>
+
+        <div class="progress">
+            <div class="progress-bar progress-bar-danger" role="progressbar"
+                aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 57%;">
+
+                <span class="sr-only">90% Reported (danger)</span>
+            </div>
+        </div>
+        <div class="barchart-legend" style="text-align: center;">
+            <ul style="list-style-type: none;">
+                <li style="display: inline-block; margin: 0 10px;">
+                    <div style="height: 14px; width: 14px; background-color: #5cb85c; display: inline-block;"></div>
+                    <h4 style="display: inline-block">Johnson Wyman Aviation</h4>
+                </li>
+                <li style="display: inline-block; margin: 0 10px;">
+                    <div style="height: 14px; width: 14px; background-color: #5bc0de; display: inline-block;"></div>
+                    <h4 style="display: inline-block">Boeing</h4>
+                </li>
+                <li style="display: inline-block; margin: 0 10px;">
+                    <div style="height: 14px; width: 14px; background-color: #f0ad4e; display: inline-block;"></div>
+                    <h4 style="display: inline-block">Airbus</h4>
+                </li>
+                <li style="display: inline-block; margin: 0 10px;">
+                    <div style="height: 14px; width: 14px; background-color: #d9534f; display: inline-block;"></div>
+                    <h4 style="display: inline-block">Cessna</h4>
+                </li>
+            </ul>
         </div>
     </div>
-    <div class="container">
-        <div class="col-lg-6" style="background-color: yellow; height: 200px">
-        </div>
-        <div class="col-lg-6" style="background-color: red; height: 200px"></div>
-    </div>
-    <div class="container">
-        <div class="col-md-4 col-xs-6" style="background-color: red; height: 200px;"></div>
-        <div class="col-md-4 col-xs-6" style="background-color: blue; height: 200px;"></div>
-        <div class="col-md-4 col-xs-12" style="background-color: green; height: 200px;"></div>
-    </div>
+
 
     <uc1:footer runat="server" ID="footer" />
     <!--Script References-->

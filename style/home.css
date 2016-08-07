@@ -187,7 +187,7 @@
 }
 
     .panel-text-text h1 {
-        margin-top: 20px;
+        margin-top: 19px;
         margin-bottom: 20px;
     }
 
@@ -204,3 +204,42 @@
 .container .col-md-12 .panel-text {
     height: auto;
 }
+
+.thumbnail-container {
+    text-align: center;
+}
+
+.thumbnail-container .thumbnail {
+    background-color: white;
+}
+
+.thumbnail-container .thumbnail:hover {
+    color: #23527c;
+    background-color: #eee;
+    text-decoration: none;
+}
+
+.barcharts {
+    margin: 30px 0;
+    padding: 20px 0;
+    border-top: 1px solid #333;
+}
+
+    .barcharts .barchart-title {
+        margin: 0 20px;
+        text-align: center;
+        max-width: 900px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .barcharts .progress {
+        text-align: center;
+        padding: 0;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 90%;
+        max-width: 900px;
+    }

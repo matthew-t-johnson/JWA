@@ -87,7 +87,7 @@
             <a href="#" class="thumbnail">
                 <img src="../images/careers/rotational_programs.jpg" />
                 <h4>WAIT A SECOND</h4>
-                <p>When you say gooch touching, just what exactly that are implying?</p>
+                <p>When you say gooch touching, just what exactly are you implying?</p>
             </a>
         </div>
     </div>
@@ -101,8 +101,9 @@
             <div class="col-lg-5 col-md-12 panel-text" style="border-radius: 0 10px 10px 0;">
                 <div>
                     <div class="panel-text-text" style="text-align: right; border-radius: 0 10px 10px 0;">
-                        <h1>First-Class Friendly</h1>
-                        <p>Johnson Wyman Aviation prides itself on building planes that are safe, reliable, and efficient, but JWA also strives to make the most luxorious planes.</p>
+                        <h1>WE SAID YES</h1>
+                        <p>With 160,000 employees worldwide it is important for JWA to have strong global engagement to ensure that we retain strong relations with all of our host countries. These sorts of engagements can range anywhere from donating for local civic development all the way to smuggling cargo for some of our customers in central locals.</p>
+                        <p>We work with the people on the ground in foreign countries to help us produce the safest, most luxurious, and innovative products; all of which helps you, the passenger, as you go about your life. Furthermore, those who show corporate promise are transfered to one of the good countries while the slackers get deported back to the 18th Century.</p>
                     </div>
                 </div>
             </div>
@@ -111,8 +112,9 @@
             <div class="col-lg-5 col-md-12 panel-text" style="border-radius: 10px 0 0 10px;">
                 <div>
                     <div class="panel-text-text">
-                        <h1>Booze Cruise in the Sky</h1>
-                        <p>Indulge yourself while being pampered at 30,000 feet. You can black out at altitude and not feel your hangover until you're back at sea level; very important for the business travelers.</p>
+                        <h1>STRATEGIC PARTNERSHIP</h1>
+                        <p>Was once described by John Wilkes Booth as "a relationship in which those in authoritative positions align themselves with those that are beneath them to achieve a desired outcome." We take that approach to heart when we hire employees to ensure that they are both capable and calculable. The last thing any successful business needs is for its workers to think they deserve more.</p>
+                        <p>That is why we at the Johnson Wyman Aviation company measure our success both by the number of aircraft we sell, but also by the number of unions we permit. We do not allow unions because they brainwash the workers with a false sense of entitlement that slows production. To prevent their formation, we fire all of our laborers after they reach the age of enlightenment.</p>
                     </div>
                 </div>
             </div>

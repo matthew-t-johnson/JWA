@@ -28,17 +28,17 @@
                 </a>
 
                 <ul class="dropdown-menu">
-                    <li><a href="#">JW500</a></li>
-                    <li><a href="#">JW600</a></li>
-                    <li><a href="#">JW700</a></li>
-                    <li><a href="#">JW800</a></li>
-                    <li><a href="#">JW900</a></li>
+                    <li><a href="/pages/aircraft/jw500.aspx">JW500</a></li>
+                    <li><a href="/pages/aircraft/jw600.aspx">JW600</a></li>
+                    <li><a href="/pages/aircraft/jw700.aspx">JW700</a></li>
+                    <li><a href="/pages/aircraft/jw800.aspx">JW800</a></li>
+                    <li><a href="/pages/aircraft/jw900.aspx">JW900</a></li>
 
                     <li class="divider"></li>
-                    <li><a href="#">Defense</a></li>
+                    <li><a href="/pages/defense.aspx">Defense</a></li>
 
                     <li class="divider"></li>
-                    <li><a href="#">Future Projects</a></li>
+                    <li><a href="/pages/futureprojects.aspx">Future Projects</a></li>
                 </ul>
 
             </li>

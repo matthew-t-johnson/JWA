@@ -81,30 +81,30 @@
             <div class="col-xs-6 col-sm-4 col-md-3 thumbnail-container hidden-xs" style="text-align: center;">
                 <a href="#" class="thumbnail">
                     <img src="../images/design/tile%20(23).jpg" />
-                    <h4 style="margin-left: auto; margin-right: auto;">JWA ECOURAGES</h4>
-                    <p style="margin-left: auto; margin-right: auto;">Employees to expose themselves when situations are tense.</p>
+                    <h4 style="margin-left: auto; margin-right: auto;">SKINNY ASSES</h4>
+                    <p style="margin-left: auto; margin-right: auto;">Is how we describe the back of our aircraft on weekends.</p>
                 </a>
             </div>
             <div class="col-xs-6 col-sm-4 col-md-3 thumbnail-container">
                 <a href="#" class="thumbnail">
                     <img src="../images/design/tile%20(11).jpg" />
-                    <h4 style="margin-left: auto; margin-right: auto;">PUBLIC RELATIONS</h4>
-                    <p style="margin-left: auto; margin-right: auto;">Consists of favoriting and retweeting posts that are posititve.</p>
+                    <h4 style="margin-left: auto; margin-right: auto;">PILOT DOOR</h4>
+                    <p style="margin-left: auto; margin-right: auto;">Allows pilots to quickly ditch in the event of a crash.</p>
                 </a>
             </div>
             <div class="col-xs-6 col-sm-4 col-md-3 thumbnail-container">
                 <a href="#" class="thumbnail">
                     <img src="../images/design/tile%20(27).jpg" />
-                    <h4 style="margin-left: auto; margin-right: auto;">SUPERVISORS</h4>
-                    <p style="margin-left: auto; margin-right: auto;">Adults monitor our labor force ensuring we maintain schedule.</p>
+                    <h4 style="margin-left: auto; margin-right: auto;">LOOK AT ALL</h4>
+                    <p style="margin-left: auto; margin-right: auto;">The space for activities on the JW900 cargo version.</p>
                 </a>
             </div>
 
             <div class="col-xs-6 col-sm-6 col-md-3 thumbnail-container hidden-sm hidden-xs">
                 <a href="#" class="thumbnail">
                     <img src="../images/design/tile%20(24).jpg" />
-                    <h4 style="margin-left: auto; margin-right: auto;">WAIT A SECOND</h4>
-                    <p style="margin-left: auto; margin-right: auto;">When you say gooch touching, just what exactly are you implying?</p>
+                    <h4 style="margin-left: auto; margin-right: auto;">WE ALSO USE</h4>
+                    <p style="margin-left: auto; margin-right: auto;">Robots when our child labor is not up to the task.</p>
                 </a>
             </div>
         </div>

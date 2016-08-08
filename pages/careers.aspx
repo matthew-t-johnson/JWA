@@ -125,7 +125,7 @@
         </div>
     </div>
     
-    <div class="panels panels-small hidden-lg hidden-md">
+    <div class="panels panels-small hidden-lg hidden-md" style="margin: 0 10px;">
         <div class="container" style="border-radius: 10px;">
             <div class="col-lg-7 col-md-12 panel-photos" style="padding: 0 0 0 0; border-radius: 10px 10px 0 0;">
                 <img style=" border-radius: 10px 10px 0 0;" src="../images/careers/empower_hero_1280x720.jpg" />
